@@ -7,3 +7,6 @@ Age:  **3**
 Breed:  **Beagle**
 
 Location:  **Philadelphia**
+
+Skills:  looking after small children, 
+         following scent trails
