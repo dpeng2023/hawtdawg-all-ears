@@ -16,3 +16,8 @@ Showcase your best self!
 Open the Hawt Dawg app and click on "Edit Profile"
 Scroll down to "Passions" and enter treats & toys.
 Click "Save Changes"
+
+## Photos are nice, but I don't see well.  How can I smell other dogs?
+
+We don't support smell.  You can meetup at a dog park to smell 
+your new friend.
